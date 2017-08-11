@@ -1,0 +1,10 @@
+#General
+node_modules
+.DS_Store
+npm-debug.log
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# Optional npm cache directory
+.npm

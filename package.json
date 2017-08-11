@@ -1,0 +1,28 @@
+{
+  "name": "homebridge-samsung-multiroom",
+  "version": "0.1.0",
+  "description": "Samsung Multiroom Speakers for Homebridge",
+  "main": "index.js",
+  "keywords": [
+    "homebridge-plugin",
+    "samsung",
+    "multiroom"
+  ],
+  "engines": {
+    "node": ">=6.0.0",
+    "homebridge": ">=0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cosminlupu/homebridge-samsung-multiroom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cosminlupu/homebridge-samsung-multiroom/issues"
+  },
+  "homepage": "https://github.com/cosminlupu/homebridge-samsung-multiroom#readme",
+  "author": "Cosmin Lupu",
+  "license": "MIT",
+  "dependencies": {
+    "samsung-multiroom": "^0.1.1"
+  }
+}
