@@ -23,9 +23,9 @@ Install homebridge:
 sudo npm install -g homebridge
 ```
 
-Install homebridge-webos3:
+Install homebridge-samsung-multiroom:
 ```sh
-sudo npm install -g homebridge-webos3
+sudo npm install -g homebridge-samsung-multiroom
 ```
 
 ## Configuration
